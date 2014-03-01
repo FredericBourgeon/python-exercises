@@ -1,8 +1,9 @@
-########################################
-## Fibonacci sequence
-## Returns the nth term
-## Simple recursive algorithm
-########################################
+"""
+Fibonacci sequence
+Returns the nth term
+Simple recursive algorithm
+"""
+
 
 def fib(n):
     if n < 2:

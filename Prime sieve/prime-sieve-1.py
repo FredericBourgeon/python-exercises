@@ -4,7 +4,7 @@ Compute prime numbers in 0 - 99
 
 import numpy as np
 
-is_prime = np.ones((100,), dtype = bool)
+is_prime = np.ones((100,), dtype=bool)
 
 # Cross-out 0 and 1
 is_prime[:2] = 0

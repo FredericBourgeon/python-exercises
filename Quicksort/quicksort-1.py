@@ -1,7 +1,7 @@
-########################################
-## Quicksort algorithm
-## Simple algorithm
-########################################
+"""
+Quicksort algorithm
+Simple algorithm
+"""
 
 
 def quicksort(lst):

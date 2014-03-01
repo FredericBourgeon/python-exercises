@@ -1,9 +1,9 @@
-########################################
-## Leibniz formula for Pi
-## Computes Pi using a summation
-## This formula converges slowly
-## One line function
-########################################
+"""
+Leibniz formula for Pi
+Computes Pi using a summation
+This formula converges slowly
+One line function
+"""
 
 from __future__ import division
 

@@ -1,7 +1,7 @@
-########################################
-## Quicksort algorithm
-## Using list comprehensions
-########################################
+"""
+Quicksort algorithm
+Using list comprehensions
+"""
 
 
 def quicksort(lst):

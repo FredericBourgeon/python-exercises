@@ -12,6 +12,6 @@ import numpy as np
 
 a = np.arange(6) + np.arange(0, 51, 10)[:, np.newaxis]
 
-print a[(0, 1, 2, 3, 4),(1, 2, 3, 4, 5)]
-print a[3:,[0, 2, 5]]
-print a[[0, 2, 5],2]
+print a[(0, 1, 2, 3, 4), (1, 2, 3, 4, 5)]
+print a[3:, [0, 2, 5]]
+print a[[0, 2, 5], 2]
